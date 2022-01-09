@@ -7,6 +7,9 @@ git clone https://github.com/shalayiding/Wikipedia-Language-Classification
 bash run.bash
 ```
 
+### For more infromation 
+ https://docs.google.com/document/d/1xqziT5NEIDkXUlA5zoieG8snxh0WTwimzjv9LFqKvBI/edit?usp=sharing
+
 ## How to run.bash:
   This file is simple bash scrip :
   put every thing in one file and run it, it will generate the data set and do two different learning algorithm on same data
